@@ -14,3 +14,5 @@ These are my solutions to Google's foo.bar challenges. I did them outside Github
 ### Level 4:
 * bringing_a_gun_to_a_guard_fight
 * running_with_bunnies
+### Level 5:
+* dodge_the_lasers
